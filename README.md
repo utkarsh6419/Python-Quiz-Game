@@ -1,2 +1,5 @@
-# Python-Quiz-Game
-A short general-knowledge quiz game in Python.
+# Quiz Game
+
+Answer five multiple-choice general-knowledge questions and receive a score.
+
+Run with `python main.py`.
